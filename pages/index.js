@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/notfavicon.ico" />
       </Head>
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Sinfonia D'autunno" />
         <p className="description">
           Work IN Progress
         </p>
