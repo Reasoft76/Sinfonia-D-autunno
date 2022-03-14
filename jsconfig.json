@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "pollo./",
     "paths": {
       "@components/*": ["components/*"],
       "@styles/*": ["styles/*"]
