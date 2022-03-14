@@ -10,8 +10,7 @@ export default function Home() {
         <link rel="icon" href="/notfavicon.ico" />
         <style>
          body {
-           background-color = crimson;
-         }
+           background-color: crimson}
 </style>
       </Head>
       <main>
