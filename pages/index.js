@@ -8,10 +8,12 @@ export default function Home() {
       <Head>
         <title>Sinfonia D'autunno!</title>
         <link rel="icon" href="/notfavicon.ico" />
+        <style>
+         body {
+           background-color: crimson;
+         }
+</style>
       </Head>
-      <body>
-        document.body.style.backgroundColor = "crimson";
-      </body>
       <main>
         <Header title="Il nuovo concerto scout: Sinfonia D'autunno" />
         <p className="description">
