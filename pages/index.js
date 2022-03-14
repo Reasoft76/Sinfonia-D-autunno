@@ -10,8 +10,9 @@ export default function Home() {
         <link rel="icon" href="/notfavicon.ico" />
       </Head>
 
+      <script>
+        document.body.style.backgroundColor = "red";
       <main>
-         document.body.style.backgroundColor = "red";
         <Header title="Welcome to my app!" />
         <p className="description">
           Work IN Progress
