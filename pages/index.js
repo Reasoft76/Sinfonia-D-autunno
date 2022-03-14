@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Sinfonia D'autunno!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/notfavicon.ico" />
       </Head>
 
       <main>
