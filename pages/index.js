@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+    <body style="background-color:powderred;">
         <Header title="Welcome to my app!" />
         <p className="description">
           Work IN Progress
