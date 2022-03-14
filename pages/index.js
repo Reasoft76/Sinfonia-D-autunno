@@ -9,8 +9,10 @@ export default function Home() {
         <title>Sinfonia D'autunno!</title>
         <link rel="icon" href="/notfavicon.ico" />
       </Head>
-      function sky(){ document.body.style.background = "skyblue"; }
       <main>
+       var myFunc = function(){
+       document.body.style.background = "crimson"; 
+       }
         <Header title="Welcome to my app!" />
         <p className="description">
           Work IN Progress
