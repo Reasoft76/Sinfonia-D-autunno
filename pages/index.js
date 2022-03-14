@@ -10,9 +10,9 @@ export default function Home() {
         <link rel="icon" href="/notfavicon.ico" />
       </Head>
       <main>
-        <Header title="Sinfonia D'autunno" />
+        <Header title="Il nuovo concerto scout: Sinfonia D'autunno" />
         <p className="description">
-          Work IN Progress
+         Sinfonia D'autunno è un concerto realizzato dal reparto foligno 3 in cui reciteremo famose canzoni scout ed alcune canzoni da noi realizzate
         </p>
       </main>
 
