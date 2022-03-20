@@ -9,7 +9,6 @@ export default function Home() {
         <title>Sinfonia D'autunno!</title>
         <link rel="icon" href="/notfavicon.ico" />
       </Head>
-    <FONT COLOR="white">
       <main>
         <Header title="Il nuovo concerto scout: Sinfonia D'autunno" />
         <p className="description">
