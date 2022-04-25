@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <main>
         <Header title="Il nuovo concerto scout: Sinfonia D'autunno" />
-        <p className="description" style="color:White;">
+        <p className="description">
          Sinfonia D'autunno è un concerto realizzato dal reparto foligno 3 in cui reciteremo famose canzoni scout ed alcune canzoni da noi realizzate
         </p>
       </main>
