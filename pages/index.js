@@ -16,8 +16,8 @@ export default function Home() {
         </p>
       </main>
       <a href="https://www.instagram.com/_concerto_sinfoniadautunno_/"><button>Instagram</button></a>
+      <a href="https://www.facebook.com/profile.php?id=100080924825776"><button>Facebook</button></a>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSelalrEpc82UmPNQ6t_hPbXFHao0hHF9UoGniZ3hdJBVO36dA/viewform"><button>Modulo di iscrizione</button></a>
-      <button>(:</button>
       <Footer />
     </div>
   )
