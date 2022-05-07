@@ -5,10 +5,6 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-    <script>
-    function instagram() {
-    location.href = 'https://www.instagram.com/_concerto_sinfoniadautunno_/'
-    }
       <Head>
         <title>Sinfonia D'autunno!</title>
         <link rel="icon" href="/notfavicon.ico" />
