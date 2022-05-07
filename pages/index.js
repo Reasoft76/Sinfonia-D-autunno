@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Sinfonia D'autunno!<Title>
+        <title>Sinfonia D'autunno!<title>
         <h1>Sinfonia D'autunno!</h1>
         <link rel="icon" href="/notfavicon.ico" />
       </Head>
