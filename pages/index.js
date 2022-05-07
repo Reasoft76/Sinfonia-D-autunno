@@ -13,6 +13,9 @@ export default function Home() {
         <Header title="Il nuovo concerto scout: Sinfonia D'autunno" />
         <p className="description">
          Sinfonia D'autunno è un concerto realizzato dal reparto foligno 3 in cui reciteremo famose canzoni scout ed alcune canzoni da noi realizzate
+        <button>instagram</button>
+        <button>facebook</button>
+        <button>modulo di iscrizione</button>
         </p>
       </main>
       <Footer />
