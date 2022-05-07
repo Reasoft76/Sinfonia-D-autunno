@@ -20,7 +20,7 @@ export default function Home() {
       <button>modulo di iscrizione</button>
       <script type="text/javascript">
     document.getElementById("instagram").onclick = instagram() {
-        location.href = "https://www.instagram.com/_concerto_sinfoniadautunno_/";
+        location.href = "https://www.instagram.com/_concerto_sinfoniadautunno_/"
     };
       </script>
       <Footer />
