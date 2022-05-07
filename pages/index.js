@@ -5,6 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
+    div.style.color = "White";
       <Head>
         <title>Sinfonia D'autunno!</title>
         <link rel="icon" href="/notfavicon.ico" />
