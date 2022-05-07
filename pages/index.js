@@ -5,6 +5,10 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
+    <script>
+    function instagram() {
+    location.href = 'https://www.instagram.com/_concerto_sinfoniadautunno_/'
+    }
       <Head>
         <title>Sinfonia D'autunno!</title>
         <link rel="icon" href="/notfavicon.ico" />
@@ -15,7 +19,7 @@ export default function Home() {
          Sinfonia D'autunno è un concerto realizzato dal reparto foligno 3 in cui reciteremo famose canzoni scout ed alcune canzoni da noi realizzate
         </p>
       </main>
-      <button>instagram</button>
+      <button onclick="instagram()">instagram</button>
       <button>facebook</button>
       <button>modulo di iscrizione</button>
       <Footer />
