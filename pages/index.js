@@ -15,9 +15,14 @@ export default function Home() {
          Sinfonia D'autunno è un concerto realizzato dal reparto foligno 3 in cui reciteremo famose canzoni scout ed alcune canzoni da noi realizzate
         </p>
       </main>
-      <button onclick="location.href='https://www.instagram.com/_concerto_sinfoniadautunno_/';">instagram</button>
+      <button id="instagram">instagram</button>
       <button>facebook</button>
       <button>modulo di iscrizione</button>
+      <script type="text/javascript">
+    document.getElementById("instagram").onclick = instagram() {
+        location.href = "https://www.instagram.com/_concerto_sinfoniadautunno_/";
+    };
+      </script>
       <Footer />
     </div>
   )
