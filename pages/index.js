@@ -6,11 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+        <title>Sinfonia D'autunno!<Title>
         <h1>Sinfonia D'autunno!</h1>
         <link rel="icon" href="/notfavicon.ico" />
       </Head>
       <main>
-        <Header title="Il nuovo concerto scout: Sinfonia D'autunno" />
+        <h2>Il nuovo concerto scout<h2/>
         <p className="description">
          Sinfonia D'autunno è un concerto realizzato dal reparto foligno 3 in cui reciteremo famose canzoni scout ed alcune canzoni da noi realizzate
         </p>
