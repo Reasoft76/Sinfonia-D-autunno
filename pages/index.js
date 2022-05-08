@@ -12,7 +12,13 @@ export default function Home() {
       </Head>
       <main>
         <p>
-         Sinfonia D'autunno è un concerto realizzato dal reparto foligno 3 in cui reciteremo famose canzoni scout ed alcune canzoni da noi realizzate
+          Cari esploratori e guide, siete tutti invitati alla nostra impresa di reparto: SINFONIA
+          D’AUTUNNO, la più grande sfida musicale fra le band di tutti i reparti! l’evento si svolgerà
+          domenica 11 giugno alla base scout "Il Giacinto"
+          a Sterpete, Foligno.
+          per poter partecipare dovete compilare il modulo di iscrizione (che trovate in basso), avete tempo fino al 17 maggio, alle ore 20;00.
+          vi attendiamo numerosi in uniforme per far conoscere il proprio reparto e il vostro amore per lo scoutismo
+          BUONA CACCIA
         </p>
       </main>
       <a href="https://www.instagram.com/_concerto_sinfoniadautunno_/"><button>Instagram</button></a>
