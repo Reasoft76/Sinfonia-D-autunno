@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/notfavicon.ico" />
       </Head>
       <main>
-        <p className="description">
+        <p>
          Sinfonia D'autunno è un concerto realizzato dal reparto foligno 3 in cui reciteremo famose canzoni scout ed alcune canzoni da noi realizzate
         </p>
       </main>
